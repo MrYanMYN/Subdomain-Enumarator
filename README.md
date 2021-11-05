@@ -21,6 +21,10 @@ python SubdomEnum.py --wordlist Documents/wordlist.txt --domain domain.com
 
 **Requires the click python module**
 
+Installation:
+
+```pip install click ```
+
 ## Disclaimer
 
 use ONLY ON MACHINES YOU HAVE PERMISSION TO SCAN , stay legal guys
